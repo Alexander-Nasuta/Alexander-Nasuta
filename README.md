@@ -9,7 +9,7 @@
 #  Alexander Nasuta
 
 I am a scientific researcher at RWTH Aachen University working on AI in the field of industrial manufacturing.
-In my work I focus on production scheduling problems with reinfocement learning.
+In my work I focus on production scheduling problems with reinfocement learning and monte carlo tree search.
 
 ### Familiar Technologies
 <img align="left" alt="Python" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
